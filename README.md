@@ -13,7 +13,6 @@ Welcome to the repository for Week 5 of our Java learning journey. This week foc
   - [Project 5: Address Book Management](#project-5-address-book-management)
 - [Tools and Technologies](#tools-and-technologies)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Conclusion](#conclusion)
 
 ## Overview
 
